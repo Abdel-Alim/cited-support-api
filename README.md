@@ -4,8 +4,6 @@ A local English support-policy retrieval API with citations, abstention, read-on
 
 **AI-assisted portfolio project, November2026. Fictional demo policies. Not an LLM, multi-agent system, production service or client engagement.** The implementation was generated and tested with AI assistance. The candidate should study it and make changes before claiming independent mastery.
 
-![API demo](docs/screenshot.png)
-
 ## Run
 
 ```sh
