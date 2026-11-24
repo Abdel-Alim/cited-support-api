@@ -1,0 +1,72 @@
+[
+  {
+    "id": "returns",
+    "title": "Returns and refunds",
+    "text": "You may request a return within 14 days of delivery. Items must be unused with original packaging. Refunds are processed within 5 business days after inspection.",
+    "source": "demo-policy://returns",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "shipping",
+    "title": "Delivery times and tracking",
+    "text": "Standard delivery takes 3 to 5 business days within Egypt. Express delivery takes 1 to 2 business days where available. Tracking appears in the order page after dispatch.",
+    "source": "demo-policy://shipping",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "payment",
+    "title": "Accepted payment methods",
+    "text": "Demo Shop accepts Visa, Mastercard, and cash on delivery in Egypt. We never ask customers to send full card numbers, card security codes, passwords or one-time codes to support.",
+    "source": "demo-policy://payment",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "cancellation",
+    "title": "Cancel an order",
+    "text": "An order can be cancelled before dispatch from the order page. After dispatch, use the return process after delivery. Support cannot cancel dispatched orders.",
+    "source": "demo-policy://cancellation",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "damaged",
+    "title": "Damaged or missing items",
+    "text": "Report a damaged or missing item within 48 hours of delivery using the order help page. Include the order reference and a photo of the package. Do not share payment credentials.",
+    "source": "demo-policy://damaged",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "warranty",
+    "title": "Warranty coverage",
+    "text": "Electronics include a 12-month manufacturer warranty for manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "source": "demo-policy://warranty",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "privacy",
+    "title": "Data and privacy requests",
+    "text": "Request account-data export or deletion through the privacy form in your account settings. The demo policy targets a response within 30 days. Identity verification uses the secure account page.",
+    "source": "demo-policy://privacy",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "address",
+    "title": "Change delivery address",
+    "text": "The delivery address can be changed in the order page before dispatch. After dispatch, contact the courier using the tracking page. Changes depend on courier availability.",
+    "source": "demo-policy://address",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "account",
+    "title": "Account access",
+    "text": "Use the password reset link on the sign-in page if you cannot access your account. Never send your password or login verification code to support.",
+    "source": "demo-policy://account",
+    "version": "2026-11-24"
+  },
+  {
+    "id": "hours",
+    "title": "Support opening hours",
+    "text": "Demo Shop support operates Sunday to Thursday, 9 AM to 5 PM Cairo time. Requests outside these hours are handled on the next business day.",
+    "source": "demo-policy://hours",
+    "version": "2026-11-24"
+  }
+]
